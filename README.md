@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Mohamed%20Abou%20Klela&fontSize=80&animation=fadeIn&fontAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Mohamed%20AbouKlela&fontSize=80&animation=fadeIn&fontAlign=50" alt="Header" />
 
   ### ⚡ Electrical BIM Engineer & BIM Developer ⚡
 
