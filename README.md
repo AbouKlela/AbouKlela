@@ -60,7 +60,9 @@ Hi there! I'm **Mohamed**, also known as **@AbouKlela**. I stand at the intersec
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbouKlela&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbouKlela&theme=dracula" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbouKlela&theme=dracula" />
 </div>
 
 <br />
@@ -68,6 +70,8 @@ Hi there! I'm **Mohamed**, also known as **@AbouKlela**. I stand at the intersec
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbouKlela&theme=dracula&hide_border=true" />
 </div>
+
+<br />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AbouKlela&style=flat-square&color=blue" alt="Profile Views" />
