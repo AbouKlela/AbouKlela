@@ -52,7 +52,6 @@ Hi there! I'm **Mohamed**, also known as **@AbouKlela**. I stand at the intersec
 
 **Hardware & Design**<br/>
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
 
@@ -61,13 +60,18 @@ Hi there! I'm **Mohamed**, also known as **@AbouKlela**. I stand at the intersec
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbouKlela&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbouKlela&layout=compact&theme=dracula&hide_border=true&count_private=true" height="180" alt="languages graph"  />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbouKlela&theme=dracula&hide_border=true" alt="streak graph"  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AbouKlela&show_icons=true&theme=dracula&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbouKlela&layout=compact&theme=dracula&hide_border=true" />
 </div>
 
+<br />
+
 <div align="center">
-  <br/>
-  <img src="https://visitcount.itsvg.in/api?id=AbouKlela&icon=0&color=0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbouKlela&theme=dracula&hide_border=true" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbouKlela&style=flat-square&color=blue" alt="Profile Views" />
 </div>
